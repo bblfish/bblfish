@@ -14,5 +14,5 @@
 - 📫 How to reach me: 
    + <a rel="me" href="https://mathstodon.xyz/@bblfish" rel="me">Mathstodon</a>
    + social network in my [foaf rdf profile](https://bblfish.net/people/henry/card#)
-- 😄 Pronouns: *The*
+- 😄 Pronouns: *The* Babelfish
 - ⚡ Fun fact: I developed the BabelFish machine translation service at AltaVista in the 1990s.
