@@ -11,6 +11,7 @@
    + social network in my [foaf rdf profile](https://bblfish.net/people/henry/card#)
 -->
 
-- 📫 How to reach me:  <a href="https://mathstodon.xyz/@bblfish">Mathstodon</a>
-- 😄 Pronouns: *The* Babelfish
+📫 How to reach me:  <a href="https://mathstodon.xyz/@bblfish">Mathstodon</a>
+<!--😄 Pronouns: *The* Babelfish
 - ⚡ Fun fact: I developed the BabelFish machine translation service at AltaVista in the 1990s.
+-->
