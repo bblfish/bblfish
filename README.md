@@ -7,12 +7,10 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+- 🔭 I’m currently working on a number of project to enable authentication and access control on the Web, following [Solid](https://github.com/solid/) protocol ideas, as part of the [Solid Control](https://github.com/co-operating-systems/solid-control) now continuing into the [Solid Wallet](https://nlnet.nl/project/SolidWallet/index.html) project.
+   + social network in my [foaf rdf profile](https://bblfish.net/people/henry/card#)
 -->
 
-- 🔭 I’m currently working on a number of project to enable authentication and access control on the Web, following [Solid](https://github.com/solid/) protocol ideas, as part of the [Solid Control](https://github.com/co-operating-systems/solid-control) now continuing into the [Solid Wallet](https://nlnet.nl/project/SolidWallet/index.html) project.
-
-- 📫 How to reach me: 
-   + <a href="https://mathstodon.xyz/@bblfish">Mathstodon</a>
-   + social network in my [foaf rdf profile](https://bblfish.net/people/henry/card#)
+- 📫 How to reach me:  <a href="https://mathstodon.xyz/@bblfish">Mathstodon</a>
 - 😄 Pronouns: *The* Babelfish
 - ⚡ Fun fact: I developed the BabelFish machine translation service at AltaVista in the 1990s.
